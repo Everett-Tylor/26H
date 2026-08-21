@@ -1,0 +1,14 @@
+#Keil MDK编译文件
+*.crf
+*.d
+*.o
+*.dep
+*.axf
+*.htm
+*.lnp
+*.sct
+*.uvguix.*
+*.uvopt
+Listings/
+Objects/
+build_log.htm
